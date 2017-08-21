@@ -5,10 +5,6 @@
     "bootstrap": "3.3.7",
     "jquery": "3.2.1",
     "jquery-validation": "1.14.0",
-    "jquery-validation-unobtrusive": "3.2.6",
-    "DataTables": "RELEASE_1_9_4"
-  },
-  "resolutions": {
-    "jquery": "3.2.1"
+    "jquery-validation-unobtrusive": "3.2.6"
   }
 }
